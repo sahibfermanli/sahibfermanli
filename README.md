@@ -21,11 +21,6 @@ Senior Software Developer with 5+ years of experience in building robust backend
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sahibfermanli)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahibfermanli230@gmail.com)
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahibfermanli&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahibfermanli&layout=compact&theme=dark)
-
 ## 💻 Areas of Expertise
 - Backend Development
 - API Development
