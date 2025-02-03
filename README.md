@@ -24,6 +24,8 @@ Senior Software Developer with 5+ years of experience in building robust backend
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahibfermanli&show_icons=true&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahibfermanli&layout=compact&theme=dark)
+
 ## 💻 Areas of Expertise
 - Backend Development
 - API Development
